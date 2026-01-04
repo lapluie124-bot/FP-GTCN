@@ -1,4 +1,4 @@
-# Paper Title: FP-GTCN: A GCN-TCN-based Soft Sensor with a Flexible Prior Process Graph for Trifluoroethanol Distillation
+# FP-GTCN: A GCN-TCN-based Soft Sensor with a Flexible Prior Process Graph for Trifluoroethanol Distillation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -225,3 +225,4 @@ For questions or issues, please:
 ---
 
 **Note**: This repository contains the official implementation. For any questions regarding the paper or code, feel free to reach out.
+
