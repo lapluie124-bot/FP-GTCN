@@ -195,9 +195,9 @@ Download pre-trained model weights:
 If you find this work useful for your research, please cite our paper:
 
 ```bibtex
-@article{lapluie2024yourtitle,
+@article{lapluie2024FP-GTCN,
   title={FP-GTCN: A GCN-TCN-based Soft Sensor with a Flexible Prior Process Graph for Trifluoroethanol Distillation},
-  author={LiYuting and Chengjie},
+  author={YutingLi and JieCheng},
   journal={Journal Name},
   year={2024},
   volume={XX},
@@ -225,4 +225,5 @@ For questions or issues, please:
 ---
 
 **Note**: This repository contains the official implementation. For any questions regarding the paper or code, feel free to reach out.
+
 
