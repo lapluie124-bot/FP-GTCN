@@ -1,12 +1,12 @@
-# FP-GTCN: A GCN-TCN-based Soft Sensor with a Flexible Prior Process Graph for Trifluoroethanol Distillation
+# FP-GTCN: A GCN-TCN Soft Sensor with a Flexible Prior Graph for Online Purity Prediction in Trifluoroethanol Distillation 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Paper](https://img.shields.io/badge/paper-arXiv-red.svg)](https://arxiv.org/abs/xxxx.xxxxx)
 
-Official implementation of **"FP-GTCN: A GCN-TCN-based Soft Sensor with a Flexible Prior Process Graph for Trifluoroethanol Distillation"** published in **Journal Name**.
+Official implementation of **"FP-GTCN: A GCN-TCN Soft Sensor with a Flexible Prior Graph for Online Purity Prediction in Trifluoroethanol Distillation "** published in **Journal Name**.
 
-> **Authors**: Yuting Li,Jie Cheng
+> **Authors**: Yuting Li,Jie Cheng,Tangjin Ji
 > **Institution**: Shandong University/School of Airspace Science and Engineering  
 > **Contact**: chjie@sdu.edu.cn
 
@@ -25,15 +25,9 @@ Official implementation of **"FP-GTCN: A GCN-TCN-based Soft Sensor with a Flexib
 
 This repository provides an official implementation of the spatiotemporal soft sensing method FP-GTCN, based on GCN–TCN, for online purity soft sensing tasks in the trifluoroethanol distillation process. 
 
-### Key Features
-
-- Feature 1: Brief description
-- Feature 2: Brief description
-- Feature 3: Brief description
-
 ### Architecture
 
-![Model Architecture](figures/architecture.png)
+![Workflow of FP-GTCN](figures/architecture.png)
 
 *Figure 1: Overview of the proposed method/architecture.*
 
@@ -225,5 +219,6 @@ For questions or issues, please:
 ---
 
 **Note**: This repository contains the official implementation. For any questions regarding the paper or code, feel free to reach out.
+
 
 
