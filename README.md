@@ -14,7 +14,6 @@ Official implementation of **"FP-GTCN: A GCN-TCN Soft Sensor with a Flexible Pri
 
 - [Overview](#overview)
 - [Installation](#installation)
-- [Dataset](#dataset)
 - [Usage](#usage)
 - [Results](#results)
 - [Citation](#citation)
@@ -29,7 +28,7 @@ This repository provides an official implementation of the spatiotemporal soft s
 
 ![Workflow of FP-GTCN](figures/architecture.png)
 
-*Figure 1: Overview of the proposed method/architecture.*
+*Figure 1: Workflow of FP-GTCN. For clarity, preprocessing steps are omitted; dataset in the following sections specifically refers to the preprocessed variables and labels. *
 
 ## 🛠️ Installation
 
@@ -58,36 +57,6 @@ pip install torch-scatter==2.1.2+pt20cu117 \
 ## Step3:Install the remaining project dependencies (from the `requirements.txt` file):
 ```
 pip install -r requirements.txt
-```
-
-## 📊 Dataset
-
-### Dataset Preparation
-
-Describe your dataset and provide download instructions:
-
-```bash
-# Download dataset
-wget https://example.com/dataset.zip
-unzip dataset.zip -d data/
-
-# Preprocess data
-python scripts/preprocess.py --input data/raw --output data/processed
-```
-
-### Dataset Structure
-
-```
-data/
-├── train/
-│   ├── images/
-│   └── labels/
-├── val/
-│   ├── images/
-│   └── labels/
-└── test/
-    ├── images/
-    └── labels/
 ```
 
 ## 🚀 Usage
@@ -219,6 +188,7 @@ For questions or issues, please:
 ---
 
 **Note**: This repository contains the official implementation. For any questions regarding the paper or code, feel free to reach out.
+
 
 
 
