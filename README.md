@@ -103,30 +103,6 @@ python inference.py \
     --output results/
 ```
 
-## 📈 Results
-
-### Quantitative Results
-
-Performance comparison on benchmark datasets:
-
-| Method | Dataset | Metric 1 | Metric 2 | Metric 3 |
-|--------|---------|----------|----------|----------|
-| Baseline | Dataset-A | 85.2 | 78.3 | 82.1 |
-| Method-B | Dataset-A | 87.5 | 80.1 | 84.3 |
-| **Ours** | Dataset-A | **91.3** | **85.7** | **88.9** |
-
-### Qualitative Results
-
-![Qualitative Results](figures/results.png)
-
-*Figure 2: Visualization of results on sample images.*
-
-### Pre-trained Models
-
-Download pre-trained model weights:
-
-- [Model trained on Dataset-A](https://drive.google.com/xxx) (250MB)
-- [Model trained on Dataset-B](https://drive.google.com/xxx) (250MB)
 
 ## 📁 Project Structure
 
@@ -184,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or issues, please:
 
 - Open an issue on GitHub
-- Contact: 202437617@mail.sdu.edu
+- Contact: lapluie124@mail.sdu.edu
 ---
 
 **Note**: This repository contains the official implementation. For any questions regarding the paper or code, feel free to reach out.
